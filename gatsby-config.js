@@ -19,7 +19,7 @@ module.exports = {
     // Will be used to generate absolute URLs for og:image etc.
     siteUrl: `https://www.jesseklotz.me`,
     // Used for SEO
-    siteDescription: `A coding student ready to impact the next generation of consumer-facing companies.`,
+    siteDescription: `I'm creating noice web experiences for the next generation of business-facing companies.`,
     // Will be set on the <html /> tag
     siteLanguage: `en`,
     // Used for og:image and must be placed inside the `static` folder
@@ -44,7 +44,7 @@ module.exports = {
       options: {
         name: `Jesse Klotz - Coding and Software Engineering`,
         short_name: `Jesse Klotz`,
-        description: `A coding student ready to impact the next generation of consumer-facing companies.`,
+        description: `I'm creating noice web experiences for the next generation of business-facing companies.`,
         start_url: `/`,
         background_color: `#141821`,
         theme_color: `#f6ad55`,
